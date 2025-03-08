@@ -1,0 +1,23 @@
+.greeting-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Full screen height */
+    text-align: center;
+  }
+  
+  .greeting-input {
+    padding: 8px;
+    margin-right: 10px;
+  }
+  
+  .greeting-button {
+    padding: 8px 15px;
+  }
+  
+  .greeting-message {
+    margin-top: 20px;
+    font-size: 1.2rem;
+  }
+  
